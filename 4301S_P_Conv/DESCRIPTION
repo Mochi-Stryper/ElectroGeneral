@@ -1,0 +1,3 @@
+THAT4301S to THAT4301P Conversion
+..NOTE..
+The pins of the DIP version will conflict with the pins of the S version. Least placement issues when mounting the S version first.
